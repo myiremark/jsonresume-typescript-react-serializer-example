@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/jsonresume-typescript-react-serializer-example/static/js/main.fc9be0a5.chunk.js",
+    "main.js.map": "/jsonresume-typescript-react-serializer-example/static/js/main.fc9be0a5.chunk.js.map",
+    "runtime-main.js": "/jsonresume-typescript-react-serializer-example/static/js/runtime-main.146788fb.js",
+    "runtime-main.js.map": "/jsonresume-typescript-react-serializer-example/static/js/runtime-main.146788fb.js.map",
+    "static/js/2.e16b165c.chunk.js": "/jsonresume-typescript-react-serializer-example/static/js/2.e16b165c.chunk.js",
+    "static/js/2.e16b165c.chunk.js.map": "/jsonresume-typescript-react-serializer-example/static/js/2.e16b165c.chunk.js.map",
+    "index.html": "/jsonresume-typescript-react-serializer-example/index.html",
+    "precache-manifest.1c7107e9b5f6873dbf23402f4eec5502.js": "/jsonresume-typescript-react-serializer-example/precache-manifest.1c7107e9b5f6873dbf23402f4eec5502.js",
+    "service-worker.js": "/jsonresume-typescript-react-serializer-example/service-worker.js",
+    "static/js/2.e16b165c.chunk.js.LICENSE.txt": "/jsonresume-typescript-react-serializer-example/static/js/2.e16b165c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.146788fb.js",
+    "static/js/2.e16b165c.chunk.js",
+    "static/js/main.fc9be0a5.chunk.js"
+  ]
+}
